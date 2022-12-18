@@ -1,0 +1,49 @@
+.load-more {
+    //position: sticky;
+    // right: 50%;
+    // bottom: 50px;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    margin-top: 50px;
+
+    &__button {
+
+        padding-right: 20px;
+        display: flex;
+        justify-content: center;
+        color: #640064;
+        border-radius: 10px;
+        border-width: 0;
+        box-shadow: 5px 4px 11px -3px rgba(15, 31, 3, 0.56);
+        height: 50px;
+        //margin-left: 70%;
+
+        &:hover {
+            transform: scale(1.1);
+            transition-duration: 250ms;
+            cursor: pointer;
+        }
+
+    }
+
+    &__icon {
+        margin-top: 8px;
+        margin-left: 15px;
+        margin-right: 5px;
+        width: 32px;
+        height: 32px;
+        fill: #640064;
+    }
+
+    ;
+
+    &__text {
+        padding-top: 15px;
+        padding-left: 20px;
+    }
+}
+
+.hide {
+    visibility: hidden;
+}
