@@ -27,6 +27,7 @@ let page = 1;
 let nextPictures;
 let querry = '';
 let loadedPictures = 0;
+let galler = new SimpleLightbox('.gallery .photo-card a', { captionPosition: 'outside', captionsData: 'alt', captionDelay: '250' });
 
 serchBtn.addEventListener("click", (ev) => {
     ev.preventDefault();
@@ -45,8 +46,8 @@ serchBtn.addEventListener("click", (ev) => {
             nextPictures = pictures;
             generateGallery(quantityOfPictures, pictures);
             const foundedPictures = pictures.data.totalHits;
-            let galler = new SimpleLightbox('.gallery .photo-card a', { captionPosition: 'outside', captionsData: 'alt', captionDelay: '250' });
-            console.log("Nowa galeria: ", galler);
+            galler.refresh();
+            // console.log("Nowa galeria: ", galler);
             if (foundedPictures > 450) {
                 Notify.success(`Hooray! We found over 450 images.`)
             } else {
@@ -112,8 +113,8 @@ loadMoreBtn.addEventListener("click", () => {
         const quantityOfPictures = pictures.data.hits.length;
         nextPictures = pictures;
         generateGallery(quantityOfPictures, pictures)
-        let galler = new SimpleLightbox('.gallery .photo-card a', { captionPosition: 'outside', captionsData: 'alt', captionDelay: '250' });
-        console.log("Nowa galeria: ", galler);
+        galler.refresh();
+        // console.log("Nowa galeria: ", galler);
         if (loadedPictures >= pictures.data.totalHits) {
             areaOfButton.classList.add('hide');
             Notify.info(infoMessage);

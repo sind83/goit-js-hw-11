@@ -976,7 +976,7 @@
 78/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/posthtml/package.json1671375361309612000 0
 107/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/features/background-clip-text.js1671375361761608000 0
 90/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/features/ttf.js1671375362165603000 0
-74/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@msgpackr-extract1671401693062572000 1
+74/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@msgpackr-extract1671408465765471468 1
 92/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/domelementtype/lib/esm/package.json1671375361381612000 0
 81/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/domelementtype/readme.md1671375361437611000 0
 86/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@swc/helpers/lib/_inherits.js1671375361697608000 0
@@ -1805,7 +1805,7 @@
 87/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/config-default/LICENSE1671375361273613000 0
 92/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/config-default/package.json1671375361349612000 0
 92/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/features/webvr.js1671375362169603000 0
-64/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel1671401693062572000 1
+64/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel1671408465765471468 1
 86/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/immutable/dist/immutable.d.ts1671375361697608000 0
 69/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/lmdb/LICENSE1671375361637609000 0
 88/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/workers/src/Profiler.js1671375361657609000 0
@@ -2244,7 +2244,7 @@
 56/home/szymon/Dokumenty/GitHub/goit-js-hw-11/package.json1671408005251458947 0
 106/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/dom-serializer/node_modules/entities/package.json1671375361477611000 0
 95/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/packager-js/lib/DevPackager.js1671375361405611000 0
-61/home/szymon/Dokumenty/GitHub/goit-js-hw-11/package-lock.json1671408005251458947 0
+61/home/szymon/Dokumenty/GitHub/goit-js-hw-11/package-lock.json1671408465793472109 0
 87/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/postcss-value-parser/README.md1671375361425611000 0
 90/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/css-select/lib/procedure.d.ts.map1671375361621609000 0
 99/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/reusify/benchmarks/createNoCodeFunction.js1671375361393612000 0
@@ -2306,7 +2306,7 @@
 87/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/immutable/dist/immutable.es.js1671375361493610000 0
 88/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/regions/EC.js1671375362053605000 0
 95/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/notiflix/build/notiflix-confirm-aio.js1671375476604500000 0
-48/home/szymon/Dokumenty/GitHub/goit-js-hw-11/dist1671404955030223000 1
+48/home/szymon/Dokumenty/GitHub/goit-js-hw-11/dist1671408962933188368 1
 99/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/css-select/lib/pseudo-selectors/filters.js1671375361425611000 0
 70/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/css-tree/dist1671375361801607000 1
 70/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/chalk/license1671375361233613000 0
@@ -2325,7 +2325,7 @@
 82/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/chalk/source/templates.js1671375361297613000 0
 79/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/ansi-styles/index.d.ts1671375361341612000 0
 85/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/workers/src/types.js1671375361709608000 0
-66/home/szymon/Dokumenty/GitHub/goit-js-hw-11/dist/index.975ef6c8.js1671404955026223000 0
+66/home/szymon/Dokumenty/GitHub/goit-js-hw-11/dist/index.975ef6c8.js1671408962933188368 0
 69/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/chalk/source1671375361297613000 1
 103/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/hash/parcel-hash.linux-arm64-musl.node1671375361833607000 0
 102/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@swc/helpers/lib/_interop_require_wildcard.js1671375361709608000 0
@@ -2370,7 +2370,7 @@
 66/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@mischnic1671375358993637000 1
 105/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/node-resolver-core/test/fixture/packages1671375361981605000 1
 88/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/regions/BZ.js1671375361845607000 0
-56/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules1671401693062572000 1
+56/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules1671408465765471468 1
 90/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/workers/lib/WorkerFarm.js1671375361721608000 0
 90/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/htmlnano/docs/docs/040-presets.md1671375361857607000 0
 98/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/features/mediasource.js1671375362125604000 0
@@ -2602,7 +2602,7 @@
 82/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/follow-redirects/https.js1671375372141500000 0
 73/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/dotenv/README.md1671375361337612000 0
 98/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/svgo/plugins/removeUnknownsAndDefaults.js1671375361809607000 0
-67/home/szymon/Dokumenty/GitHub/goit-js-hw-11/dist/icons.adfc4680.svg1671404955030223000 0
+67/home/szymon/Dokumenty/GitHub/goit-js-hw-11/dist/icons.adfc4680.svg1671408514614594195 0
 85/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/css-what/lib/es/stringify.js1671375361489611000 0
 110/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@babel/highlight/node_modules/color-convert/README.md1671375361389612000 0
 79/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/svgo/lib/svgo/jsAPI.js1671375361713608000 0
@@ -2728,7 +2728,7 @@
 96/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/packager-css/lib/CSSPackager.js1671375361273613000 0
 119/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/htmlnano/docs/versioned_docs/version-2.0.0/010-introduction.md1671375361849607000 0
 94/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/simplelightbox/src/license-notice.txt1671401693050572000 0
-70/home/szymon/Dokumenty/GitHub/goit-js-hw-11/dist/index.975ef6c8.js.map1671404955030223000 0
+70/home/szymon/Dokumenty/GitHub/goit-js-hw-11/dist/index.975ef6c8.js.map1671408962933188368 0
 69/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@swc/helpers1671375361805607000 1
 94/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/runtime-js/src/helpers/worker1671375361741608000 1
 96/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/terser/node_modules/commander/Readme.md1671375361389612000 0
@@ -3068,7 +3068,7 @@
 75/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/css-select/LICENSE1671375361233613000 0
 102/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/core/test/fixtures/library-scopehoist1671375362057605000 1
 92/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@jridgewell/trace-mapping/README.md1671375361457611000 0
-59/home/szymon/Dokumenty/GitHub/goit-js-hw-11/dist/index.html1671404955010223000 0
+59/home/szymon/Dokumenty/GitHub/goit-js-hw-11/dist/index.html1671408514558592903 0
 92/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/optimizer-svgo/package.json1671375361345612000 0
 99/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/core/test/fixtures/parcel/index.js1671375361889606000 0
 96/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/features/png-alpha.js1671375362137604000 0
@@ -3436,7 +3436,7 @@
 87/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/core/src/Dependency.js1671375361841607000 0
 152/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-package-redirect-down/foo/bar1671375362021605000 1
 104/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/notiflix/dist/notiflix-confirm-aio-3.2.5.min.js1671375476604500000 0
-58/home/szymon/Dokumenty/GitHub/goit-js-hw-11/src/index.html1671408259748842747 0
+58/home/szymon/Dokumenty/GitHub/goit-js-hw-11/src/index.html1671408513958579063 0
 83/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/simplelightbox/gulpfile.js1671401693002572000 0
 90/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@jridgewell/source-map/dist/types1671375361557610000 1
 106/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/transformer-js/parcel-swc.darwin-x64.node1671375362233603000 0
@@ -4038,7 +4038,7 @@
 105/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/core/test/fixtures/common-targets-ignore1671375362029605000 1
 118/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/core/test/fixtures/common-targets-ignore/package.json1671375362029605000 0
 106/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/css-tree/lib/syntax/pseudo/common/selectorList.js1671375361961606000 0
-71/home/szymon/Dokumenty/GitHub/goit-js-hw-11/dist/index.b07a87f3.css.map1671404955002223000 0
+71/home/szymon/Dokumenty/GitHub/goit-js-hw-11/dist/index.b07a87f3.css.map1671408514558592903 0
 117/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/core/test/fixtures/config-plugin-not-found/.parcelrc1671375361537610000 0
 106/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/features/css-descendant-gtgt.js1671375361945606000 0
 126/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/core/test/fixtures/invalid-target-source-missing/package.json1671375362053605000 0
@@ -4302,7 +4302,7 @@
 90/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/utils/src/PromiseQueue.js1671375361861607000 0
 103/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/features/web-app-manifest.js1671375362169603000 0
 96/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/utils/src/relativeBundlePath.js1671375361865607000 0
-67/home/szymon/Dokumenty/GitHub/goit-js-hw-11/dist/index.b07a87f3.css1671404955002223000 0
+67/home/szymon/Dokumenty/GitHub/goit-js-hw-11/dist/index.b07a87f3.css1671408514558592903 0
 80/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/workers/LICENSE1671375361233613000 0
 92/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/utils/src/parseCSSImport.js1671375361857607000 0
 74/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/timsort/README.md1671375361253613000 0
@@ -4418,7 +4418,7 @@
 85/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/cache/lib/types.d.ts1671375361525610000 0
 84/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@jridgewell/sourcemap-codec1671375361389612000 1
 94/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/cache/lib/IDBCache.browser.js1671375361349612000 0
-75/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/.package-lock.json1671401693118572000 0
+75/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/.package-lock.json1671408465813472567 0
 71/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/proxy-from-env1671375372145500000 1
 77/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/msgpackr/SECURITY.md1671375361641609000 0
 87/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/cache/lib/LMDBCache.js1671375361469611000 0
@@ -4510,7 +4510,7 @@
 88/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/css-select/lib/pseudo-selectors1671375361697608000 1
 158/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-package-redirect-up/foo/real-bar.js1671375361969605000 0
 93/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/features/tls1-1.js1671375362161603000 0
-56/home/szymon/Dokumenty/GitHub/goit-js-hw-11/src/index.js1671408005251458947 0
+56/home/szymon/Dokumenty/GitHub/goit-js-hw-11/src/index.js1671408964321221756 0
 94/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/core/test/BundleGraph.test.js1671375361809607000 0
 163/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-package-redirect-up/foo/bar/package.json1671375362029605000 0
 75/home/szymon/Dokumenty/GitHub/goit-js-hw-11/node_modules/micromatch/LICENSE1671375361205613000 0
