@@ -74,6 +74,7 @@ const generateGallery = (numbersOfPictures, pictures) => {
     let couterOfPictures = loadedPictures;
     for (let i = 0; i < numbersOfPictures; i++) {
         const { webformatURL, likes, views, comments, downloads, tags, largeImageURL } = pictures.data.hits[i];
+        const imgSrc = "./images/icons.svg#";
         gallery.innerHTML +=
             `
             <li class="photo-card">
@@ -83,15 +84,19 @@ const generateGallery = (numbersOfPictures, pictures) => {
                         <div class="info">
                         
                             <p class="info-item">
-                            <b>Likes: </b>${likes}
+                           
+                            <b>Likes: </b> ${likes}
                             </p>
                             <p class="info-item">
+                           
                                 <b>Views: </b>${views}
                             </p>
                             <p class="info-item">
+                           
                                 <b>Comments: </b>${comments}
                             </p>
                             <p class="info-item">
+                           
                                 <b>Downloads: </b>${downloads}
                             </p>
                         </div>

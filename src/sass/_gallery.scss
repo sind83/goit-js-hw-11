@@ -39,8 +39,16 @@
     .info-item{
         margin-left: 10px;
     }
+    
 }
 ul, li{
     list-style: none;
 }
 
+.info-icons{
+        width: 32px;
+        height: 32px;
+        fill: #640064;
+        z-index: 4110;
+        
+    }
